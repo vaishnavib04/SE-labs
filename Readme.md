@@ -1,8 +1,11 @@
 # Software Engineering Lab Repository
 
 **Name:** Vaishnavi Bandaru
+
 **SRN:** PES2UG24CS570
+
 **Section:** 5J
+
 **Semester:** 5
 
 ## About
@@ -39,4 +42,5 @@ Each lab is maintained in its respective folder and contains the relevant source
 ---
 
 **Course:** Software Engineering
+
 **University:** PES University
